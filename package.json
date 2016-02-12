@@ -1,12 +1,16 @@
 {
-  "name": "giphy-get-trending",
-  "version": "0.0.1",
-  "description": "",
-  "main": "index.js",
-  "author": "Arman Yeghiazaryan",
-  "license": "ISC",
-  "private": true,
-  "dependencies": {
-    "giphy-api": "^1.1.11"
-  }
+   "name": "giphy-get-trending",
+   "version": "0.0.1",
+   "description": "Get the latest stickers trending on Giphy",
+   "main": "index.js",
+   "author": "Run Dexter, Inc",
+   "license": "MIT",
+   "private": true,
+   "dependencies": {
+      "giphy-api": "^1.1.11"
+   },
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/rundexter/giphy-sticker-trending"
+   }
 }
